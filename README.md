@@ -2,7 +2,7 @@ Hi there 👋, I am Luis Silva
 
 Be welcome!
 
-💬 Ask me about HTML, CSS, JavaScript
+💬 Ask me about HTML, CSS, JavaScript, Reactjs and React Native
 
 📫 How to reach me?
 - luishenriq.s87@gmail.com  
