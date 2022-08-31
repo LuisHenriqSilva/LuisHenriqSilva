@@ -1,6 +1,6 @@
 Hi there 👋, I am Luis Silva
 
-Be welcome! :simple_smile:
+Be welcome! :smile:
 
 :mag_right: Here you will find most projects created around the javascript ecosystem 
 
